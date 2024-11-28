@@ -16,8 +16,10 @@ I'm a **3rd-year B.Tech CSE student** from **GITAM University, Hyderabad** 🎓.
 ---
 
 ## 📫 How to Reach Me
-- 🌐 [LinkedIn](#) *(Add your LinkedIn link here)*
-- 🐦 [Twitter](#) *(Add your Twitter link here)*
+- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/satwicc/)*
+- 🐦 [Twitter](#) *(https://www.x.com/satwicc)*
+- 📸 [Instagram](#) *(https://www.instagram.com/satwicc/)*
+
 
 ---
 
